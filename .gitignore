@@ -2,3 +2,4 @@
 *.db
 *.gz
 *.csv
+.ipynb_checkpoints\createCubeDB-checkpoint.ipynb
